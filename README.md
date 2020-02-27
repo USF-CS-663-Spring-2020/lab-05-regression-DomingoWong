@@ -1,4 +1,6 @@
-# readme.md
+# Lab 05 Regression
 
-**Name**:  
-**USF email address**:  
+**Name**: Domingo Huang
+
+**USF email address**: yhuang158@dons.usfa.edu
+
